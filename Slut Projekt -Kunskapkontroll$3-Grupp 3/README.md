@@ -3,7 +3,7 @@
 
 
                  
-Detta är min mighty enkelt spel byggt för att testa användares Memory och min också 😄,Det finns ett däck av kort med olika ikoner.
+Detta är enkelt spel byggt för att testa användares Memory och min också 😄,Det finns ett däck av kort med olika ikoner.
 
  - Instruktioner:
 
